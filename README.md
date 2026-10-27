@@ -86,3 +86,5 @@ Temperatura máxima diaria (`TMAX`) de 2024 en una estación por ciudad, del Glo
 ## Herramientas
 
 Los gráficos se han generado con Python y [Plotly](https://plotly.com/python/). Cada script se ejecuta de forma independiente (`python bubble_chart.py`, etc.) y escribe el HTML en su misma carpeta.
+
+Para desarrollar los scripts de Python que generan los HTML de las visualizaciones se ha contado con el apoyo de [Claude](https://claude.ai) (Anthropic) - Opus 5.5 como asistente de programación.
